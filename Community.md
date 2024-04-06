@@ -19,6 +19,24 @@
   </tr>
 </table>
 <table>
+  <tr>
+    <td>Name</td>
+    <td>Gaurav Prajapati</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/gaurav12devloper</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/gaurav-developer/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Harcourt Butler Technical University, Kanpur</td>
+  </tr>
+</table>
+<table>
       <tr>
         <td>Name</td>
         <td>Arnav Goel</td>
